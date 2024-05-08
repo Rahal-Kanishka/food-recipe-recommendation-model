@@ -1,4 +1,4 @@
-# food-recipe-recommendation-model
+# Food Recipe Recommendation Model
 A model for recommending food recipes using the Cosine similarity
 
 ## Resources
